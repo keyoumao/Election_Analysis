@@ -35,3 +35,8 @@ The analysis of the election show that:
 3. Write data to an output file and print the file.*
 
 ## Challenge Summary
+1. We have updated formatting of the election_analysis.txt with newly added "County Votes:".
+2. The county votes have been established based on similar "for" loop structure as the candidate votes.
+3. The comparison of each county's votes is based on a similar if-statement inside a "for" loop, mimicking the strategy to determine the highest winning voter.
+4. Added space above and below the county vote summary emphasises the newly added analysis.
+5. The newly-added breakline and "Largest County Turnout: "z"" has been displayed based on the votes results.

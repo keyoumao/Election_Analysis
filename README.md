@@ -29,8 +29,9 @@ The analysis of the election show that:
     
 ## Challenge Overview
 **The goals of this challenge are for you to:**
-    1. *Extend your use of "for" loops and conditionals with membership and logical operators.*
-    2. *Scope and refactor code to provide additional information.*
-    3. *Write data to an output file and print the file.*
+
+*1. Extend your use of "for" loops and conditionals with membership and logical operators.
+2. Scope and refactor code to provide additional information.
+3. Write data to an output file and print the file.*
 
 ## Challenge Summary

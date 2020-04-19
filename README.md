@@ -28,7 +28,7 @@ The analysis of the election show that:
     - Candidate (1, 2, or 3), who received "x%" of the vote and "y number of votes.
     
 ## Challenge Overview
-The goals of this challenge are for you to:
+- The goals of this challenge are for you to:
     - Extend your use of "for" loops and conditionals with membership and logical operators.
     - Scope and refactor code to provide additional information.
     - Write data to an output file and print the file.
